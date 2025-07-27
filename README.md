@@ -40,7 +40,7 @@ Install with:
 
 Clone the repository:
 
-    git clone https://github.com/YOUR_USERNAME/upload-blocker.git && cd upload-blocker
+    git clone https://github.com/yongkico/vps-upload-blocker.git && cd vps-upload-blocker
 
 Make the script executable:
 
@@ -73,7 +73,8 @@ Run the script:
 
 ## 🤝 Credits
 
-Made with ❤️ by **Stucklabs** — automating your VPS defense.
+Made with ❤️ by **Stucklabs**  
+GitHub: [@yongkico](https://github.com/yongkico)
 
 ---
 
